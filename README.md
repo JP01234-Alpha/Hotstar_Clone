@@ -21,5 +21,5 @@ npm start
 
 ## Website link
 
-https://hotstar-88d5e.web.app
+https://hotstar-clone-d8346f.netlify.app/
 
